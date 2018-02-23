@@ -44,11 +44,11 @@ p{
 	float:left;
 	}
 	
-.ddd1{
+.chicken{
 	float:right;
 	border:1px solid black;
 	padding:5px;
-	width:120px;
+	width:40%;
 	text-align:center;
 	background-color:#D3D3D3;
 	color:red;
@@ -56,22 +56,22 @@ p{
 	margin-right:-6px;
 }
 
-.ddd2{  
+.beef{  
 	float:right;
 	border:1px solid black;
 	padding:5px;
-	width:120px;
+	width:40%;
 	text-align:center;
 	background-color:#D3D3D3;
 	color:green;
 	margin-top:-6px;
 	margin-right:-6px;
 	}
-.ddd3{  
+.sushi{  
 	float:right;
 	border:1px solid black;
 	padding:5px;
-	width:120px;
+	width:40%;
 	text-align:center;
 	background-color:#D3D3D3;
 	color:brown;
