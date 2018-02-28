@@ -1,0 +1,97 @@
+*{
+	box-sizing:border-box;
+	  font-family: Comic Sans MS,Helvetica,genera,arial black;
+	 font-size:1.04em;
+	  
+}
+/*----------------------nav------------ */
+ 
+
+ 
+#navbar{
+	width:100%;
+	background-color:#ffcf79;
+}
+
+#navbar-container {
+	background-color:#ffcf79;
+	 
+}
+
+#navbar{
+	 
+}
+	
+.container{ 
+padding-top:20px;
+	width:100%;
+}
+.navbar-brand a{ 
+	  color:black;
+ }
+ 
+ .navbar-brand a:hover{
+	 text-decoration:none;
+	 background-color:white;
+	 color:black;
+ }
+ #button{
+	 background-color:orange;
+	 border-radius:4px;
+ }
+#list{
+	background-color:brown;
+	color:white;
+	text-align:center;
+}
+
+#list a span{ 
+	color:white;
+	 
+}
+
+
+#list li:hover{
+	background-color:green;
+	border:2px solid white;
+}
+
+/*----------------------body------------ */
+#ourmenu{
+	color:violet;
+}
+
+h2{
+	color:violet;
+	text-align:  center;
+	font-size:1.95em;
+	padding:5px;}
+
+ 
+p{ 
+	font-size:1.1em;
+		padding:5px;
+}
+
+.divs1{
+	background-color:#ffcf79;
+	border:1px solid black;
+	padding:5px;
+	width:100%;
+}
+. 
+
+	.cont1{ 
+	float:left;
+	padding:5px;	}
+	 
+	
+.chicken{ 
+	text-align:center; 
+	color:red; 
+	line-height: 5px;
+	font-size: 1.7em;
+	padding:5px;}
+
+ 
+
